@@ -15,12 +15,12 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
-All in the golden afternoon.  
-Full leisurely we glide;  
-For both our oars, with little skill,  
-By little arms are plied,  
-While little hands make vain pretense. 
-Our wanderings to guide.  
+The sun was shining on the sea,  
+Shining with all his might:  
+He did his very best to make  
+The billows smooth and bright —  
+And this was odd, because it was  
+The middle of the night.  
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
